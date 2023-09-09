@@ -1,6 +1,6 @@
 #include <iostream>
 
-#define SUB
+#define SUB(n1, n2) ((n1)-(n2))
 
 int main(int argc, char** argv)
 {
